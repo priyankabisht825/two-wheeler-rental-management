@@ -1,0 +1,2 @@
+Vehicle ID: 102, Name: Pulsar, Actual Date: 2025-06-5, Expected: 2025-06-23, Condition: Good
+Vehicle ID: 104, Name: Apache, Actual Date: 2025-06-5, Expected: 2025-06-26, Condition: Good
